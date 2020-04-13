@@ -1,2 +1,2 @@
 # js-foodie-app
-food search app from database
+food search app with bts4
