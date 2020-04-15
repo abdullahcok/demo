@@ -1,2 +1,2 @@
 # js-foodie-app
-food search app with bts4
+just coming soon...
